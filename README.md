@@ -1,4 +1,4 @@
-[![Build status](https://github.com/Tinywan/github-actions-build-docker/workflows/Docker-Image-Build-CI/badge.svg)]()
+[![Build status](https://github.com/jakesyl/github-actions-build-docker/workflows/Docker-Image-Build-CI/badge.svg)]()
 
 This article will help you to set up a workflow with GitHub actions that will build and tag the Docker image and push it to the Docker Hub registry.
 
